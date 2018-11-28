@@ -1,4 +1,4 @@
-grammar Aspl;
+grammar Pql;
 /*
     References : https://github.com/antlr/grammars-v4/blob/master/java/JavaParser.g4
 */
